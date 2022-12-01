@@ -54,9 +54,9 @@ Nota. Medidor de nivel de agua [Fotografía], por Electricidad y Electrónica, 2
 ## Video 
 ## Conclusiones 
 
-•	El transistor 2N3904 es un transistor de conmutación rápida, es decir, puede trabajar con frecuencias elevadas, corta apague y baja tensión de saturación, y es apto para comunicación y amplificación.
-•	El led en nuestro circuito funciona como señalización para los niveles de agua el cual como vemos, acorde sube el nivel de agua empiezan a encenderse en el orden en el que se dispusieron.
-•	El transistor 2N3904 funciona a bajas intensidades, bajas potencias, tensiones medias, y puede operar a velocidades razonablemente altas.
-•	La resistencia se opone a la corriente que sale de la base transistor 2N3904.
-•	El emisor del transistor va a la tierra conectado a una resistencia y el colector va conectado al led y a la resistencia para conectarse al polo positivo de la fuente.
+- El transistor 2N3904 es un transistor de conmutación rápida, es decir, puede trabajar con frecuencias elevadas, corta apague y baja tensión de saturación, y es apto para comunicación y amplificación.
+- El led en nuestro circuito funciona como señalización para los niveles de agua el cual como vemos, acorde sube el nivel de agua empiezan a encenderse en el orden en el que se dispusieron.
+- El transistor 2N3904 funciona a bajas intensidades, bajas potencias, tensiones medias, y puede operar a velocidades razonablemente altas.
+- La resistencia se opone a la corriente que sale de la base transistor 2N3904.
+- El emisor del transistor va a la tierra conectado a una resistencia y el colector va conectado al led y a la resistencia para conectarse al polo positivo de la fuente.
 
