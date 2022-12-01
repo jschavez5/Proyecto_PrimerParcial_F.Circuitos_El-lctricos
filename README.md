@@ -33,8 +33,8 @@ El circuito armado cuenta con tres focos led, cada uno de estos con su transisto
 El circuito se lo deja abierto ya que, el agua contenidad dentro del vaso tomará el papel de puente de conexión faltante para cerrar el circuito. Cada cable ubicado en forma de escalera, según el agua va llegando al nivel de su terminal, este conectará una nueva trayectoria, es decir, el agua cierra la trayectoria, la cantidad mínima de voltaje establecida entre el agua y el cable es suficiente para activar el transitor, el cuál por consiguiente, encenderá el led respectivo, esto sucede co cada una de las trayectorias establecidas. 
 
 
+![image](https://user-images.githubusercontent.com/116780907/205099279-feb7d646-9867-4444-a7e8-dc5e9f1044c9.png)
 
-y 
 ## Video 
 ## Conclusiones 
 
