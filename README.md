@@ -15,6 +15,18 @@ Implementar un circuito experimental-funcional para medir el nivel de agua de ac
 
 
 ## Procedimiento 
+1. Como primer punto, colocamos nuestros transistores en la protoborad, conociendo que la primera patita corresponde al emisor, la segunda  a la base y la tercera el colector, ocupando de tal manera, tres filas respectivamente, procurando que la parte plana del transistor esté de frente a nosotros. 
+   
+2. Realizamos la conexión a tierra para cada transistor, conectando un cable desde la fila correspondiente a la primera patita (emisor), hasta el terminal negativo de la protoborad. 
+   
+3. Colacamos un resistor de 510 ohms para cada transistor, esto lo realizamos colocando un terminal a la fila correspondiente a la tercera patita (colector) hacia el otro lado del canal central. 
+
+4. Colocamos nuestros focos led al circuito, esto lo realizamos conociendo que la patita más larga corresponde al positivo y la más corta al negativo, por lo cuál, la positiva irá a la terminal positiva de la protoboard  y la negativa a la fila correspondiente de los resistores de 510 ohms. 
+
+5. Colocamos un resistor de 1000 ohms desde el terminal positivo hacia el otro lado del canal central, esto lo hacemos desde cualquier fila del circuito armad, procurando establecerlo al principio del mismo. 
+6. Realizamos conexiones dede la fila correspondiente a la base de cada transistor con los cables, sin unirlos a otra parte del circuito. 
+7. Conectamos nuestra fuente de 9V de manera paralela hacie los terminales de la protoboard. 
+8. Juntamos todos los cables, procurando que la conexión incial al resistor de 1000 ohms esté primero, luego colocamos las conexiones de los transistores de forma de escalera, esto para darle la función de medir el nivel del agua. 
 
 
 ## Video 
