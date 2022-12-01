@@ -16,33 +16,33 @@ Implementar un circuito experimental-funcional para medir el nivel de agua de ac
 ![image](https://user-images.githubusercontent.com/116780907/205109801-34266172-5925-49fc-b329-e4b1eda1ecba.png)
 
 ## Procedimiento 
-1. Como primer punto, colocamos nuestros transistores en la protoborad, conociendo que la primera patita corresponde al emisor, la segunda  a la base y la tercera el colector, ocupando de tal manera, tres filas respectivamente, procurando que la parte plana del transistor esté de frente a nosotros. 
+1. Como primer punto, se coloca los transistores en la protoborad, conociendo que la primera patita corresponde al emisor, la segunda  a la base y la tercera el colector, ocupando de tal manera, tres filas respectivamente, procurando que la parte plana del transistor esté de frente a uno. 
 ![image](https://user-images.githubusercontent.com/116780907/205109968-009a90a8-224c-4da0-bfc6-b361f9adfbe6.png)
    
 2. Realizamos la conexión a tierra para cada transistor, conectando un cable desde la fila correspondiente a la primera patita (emisor), hasta el terminal negativo de la protoborad. 
 ![image](https://user-images.githubusercontent.com/116780907/205110081-94e83138-af3e-4aa6-8587-7853e7aad88a.png)
 
 
-3. Colacamos un resistor de 510 ohms para cada transistor, esto lo realizamos colocando un terminal a la fila correspondiente a la tercera patita (colector) hacia el otro lado del canal central. 
+3. Se coloca un resistor de 510 ohms para cada transistor, esto se realiza colocando un terminal a la fila correspondiente a la tercera patita (colector) hacia el otro lado del canal central. 
 ![image](https://user-images.githubusercontent.com/116780907/205110182-21c4b372-7f11-4ef7-8d2f-0d1445d5da95.png)
 
 
 
-4. Colocamos nuestros focos led al circuito, esto lo realizamos conociendo que la patita más larga corresponde al positivo y la más corta al negativo, por lo cuál, la positiva irá a la terminal positiva de la protoboard  y la negativa a la fila correspondiente de los resistores de 510 ohms. 
+4. Se coloca los diodos led al circuito, esto se lo realiza  conociendo que la patita más larga corresponde al positivo y la más corta al negativo, por lo cuál, la positiva irá a la terminal positiva de la protoboard  y la negativa a la fila correspondiente de los resistores de 510 ohms. 
 ![image](https://user-images.githubusercontent.com/116780907/205110241-9b732f10-f5b9-4a97-8983-648150f8236a.png)
 
 
 
-5. Colocamos un resistor de 1000 ohms desde el terminal positivo hacia el otro lado del canal central, esto lo hacemos desde cualquier fila del circuito armad, procurando establecerlo al principio del mismo. 
+5. Se coloca un resistor de 1000 ohms desde el terminal positivo hacia el otro lado del canal central, esto se lo hace desde cualquier fila del circuito armado, procurando establecerlo al principio del mismo. 
 ![image](https://user-images.githubusercontent.com/116780907/205110358-78f6dce8-95c8-4b8d-aa79-a2c72aa2a6b5.png)
 
-6. Realizamos conexiones dede la fila correspondiente a la base de cada transistor con los cables, sin unirlos a otra parte del circuito. 
+6. Se realiza conexiones dede la fila correspondiente a la base de cada transistor con los cables, sin unirlos a otra parte del circuito. 
 ![image](https://user-images.githubusercontent.com/116780907/205110442-704e3015-2302-4fdb-afc1-96eb2b9133a0.png)
 
-7. Conectamos nuestra fuente de 9V de manera paralela hacie los terminales de la protoboard. 
+7. Se conecta la fuente de 9V de manera paralela hacie los terminales de la protoboard. 
 ![image](https://user-images.githubusercontent.com/116780907/205110509-8f63c9fc-7e40-47a7-a05a-cc392dcad14d.png)
 
-8. Juntamos todos los cables, procurando que la conexión incial al resistor de 1000 ohms esté primero, luego colocamos las conexiones de los transistores de forma de escalera, esto para darle la función de medir el nivel del agua. 
+8. Juntandos todos los cables, procurando que la conexión incial al resistor de 1000 ohms esté primero, luego colocamos las conexiones de los transistores de forma de escalera, esto para darle la función de medir el nivel del agua. 
 
 ![image](https://user-images.githubusercontent.com/116780907/205110571-1a2c96d9-8909-4991-a878-5178e8c9f961.png)
 
