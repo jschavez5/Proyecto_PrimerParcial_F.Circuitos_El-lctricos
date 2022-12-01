@@ -58,6 +58,7 @@ Diagrama del Circuito
 Nota. Medidor de nivel de agua [Fotografía], por Electricidad y Electrónica, 2020,https://n9.cl/hk4ac
 
 ## Video 
+https://youtu.be/xAQPxcydkIY
 ## Conclusiones 
 
 - El transistor 2N3904 es un transistor de conmutación rápida, es decir, puede trabajar con frecuencias elevadas, corta apague y baja tensión de saturación, y es apto para comunicación y amplificación.
