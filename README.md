@@ -32,8 +32,9 @@ Implementar un circuito experimental-funcional para medir el nivel de agua de ac
 El circuito armado cuenta con tres focos led, cada uno de estos con su transistor y resistencia respectivamente. Las resistencias cumplen el rol de proteger a los elementos del circuito regulando la cantidad de voltaje. Los transistores cumplen la función de captar la más mínima cantidad de voltaje (0.7 V) para su funcionameinto, mientras que los cables proporcionan las conexiones necesarias con la fuente de voltaje. 
 El circuito se lo deja abierto ya que, el agua contenidad dentro del vaso tomará el papel de puente de conexión faltante para cerrar el circuito. Cada cable ubicado en forma de escalera, según el agua va llegando al nivel de su terminal, este conectará una nueva trayectoria, es decir, el agua cierra la trayectoria, la cantidad mínima de voltaje establecida entre el agua y el cable es suficiente para activar el transitor, el cuál por consiguiente, encenderá el led respectivo, esto sucede co cada una de las trayectorias establecidas. 
 
-
+Diagrama del Circuito 
 ![image](https://user-images.githubusercontent.com/116780907/205099279-feb7d646-9867-4444-a7e8-dc5e9f1044c9.png)
+Nota. Medidor de nivel de agua [Fotografía], por Electricidad y Electrónica, 2020,https://n9.cl/hk4ac
 
 ## Video 
 ## Conclusiones 
