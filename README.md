@@ -1,4 +1,4 @@
-# Proyecto_PrimerParcial_F.Circuitos_El-lctricos
+# Proyecto_PrimerParcial_F.Circuitos_Eléctricos
 Elaboración del proyecto del primer parcial para la materia de Fundamentos de Circuitos Eléctricos - Universidad de las Fuerzas Armadas 
 ## Integrantes 
 - Josué Chávez 
