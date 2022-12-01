@@ -53,7 +53,7 @@ https://drive.google.com/file/d/1oQBkYPtqfFidfG0vcneTLmQTncwcKaPl/view?usp=shari
 
 
 
-Diagrama del Circuito 
+Diagrama Referente del Circuito 
 ![image](https://user-images.githubusercontent.com/116780907/205099279-feb7d646-9867-4444-a7e8-dc5e9f1044c9.png)
 Nota. Medidor de nivel de agua [Fotografía], por Electricidad y Electrónica, 2020,https://n9.cl/hk4ac
 
